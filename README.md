@@ -10,7 +10,7 @@ Or if you want to revert it back to dark
 `./switcher.sh firefox dark`
 
 # Warning
-This script will restart whichever app you specify, save before running.
+Restart the application to see it take effect
 
 # Requirements
 - Use bash 4 or newer
